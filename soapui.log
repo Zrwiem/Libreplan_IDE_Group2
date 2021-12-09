@@ -1,0 +1,7 @@
+2021-12-09 14:13:57,414 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\formation\soapui-settings.xml]
+2021-12-09 14:13:58,249 INFO  [PluginManager] 0 plugins loaded in 1 ms
+2021-12-09 14:13:58,250 INFO  [DefaultSoapUICore] All plugins loaded
+2021-12-09 14:13:58,693 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/Projet2Groupe2/src/test/resources/Libreplan-soapui-project_Groupe2.xml]
+2021-12-09 14:13:58,731 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/Projet2Groupe2/src/test/resources/Libreplan-soapui-project_Groupe2.xml]
+2021-12-09 14:13:58,980 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/Projet2Groupe2/src/test/resources/Libreplan-soapui-project_Groupe2.xml]
+2021-12-09 14:13:59,146 INFO  [WsdlProject] Loaded project from [file:/C:/Users/formation/Documents/SquashTA-1.10.0-RELEASE-workspace/Projet2Groupe2/src/test/resources/Libreplan-soapui-project_Groupe2.xml]
